@@ -1,4 +1,6 @@
 {
+  "name": "gatsby-theme-FOLIO",
+  "author": "Justin Brown <justbrown1980@gmail.com>",
   "private": true,
   "workspaces": [
     "theme",
